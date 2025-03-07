@@ -1,0 +1,39 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#profile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#profile-image {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.profile-link img {
+    height: 3em;
+    margin: 0em 0.5em;
+}
+
+.divider {
+    width: 90%;
+    border-top: 1px solid #AAAAAA;
+    margin: 1em auto;
+}
+
+.project h1 img {
+    height: 0.8em;
+    margin-left: 0.4em;
+}
+
+a img:hover {
+    opacity: 0.8;
+}
+
+video {
+    width: 100%;
+}
