@@ -35,5 +35,8 @@ a img:hover {
 }
 
 video {
-    width: 100%;
+    width: 1000px;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
 }
